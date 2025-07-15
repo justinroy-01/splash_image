@@ -1,19 +1,1 @@
 
-```gitignore
-# OS
-.DS_Store
-Thumbs.db
-
-# VS Code
-.vscode/
-
-# node/npm (not used here, but just in case you later add it)
-node_modules/
-package-lock.json
-
-# Logs
-*.log
-
-# Misc
-*.zip
-*.tar.gz
